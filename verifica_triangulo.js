@@ -1,3 +1,4 @@
+//método arbitrário
 
 const a = 9;
 const b = 15;
@@ -15,8 +16,6 @@ console.log(verificaTriangulo());
 console.log(defineTipoTriangulo());
 console.log(defineTipoTriangulo2());
 console.log(defineTipoTriangulo3());
-
-//método arbitrário
 
 function verificaTriangulo(){
 		if (a + b > c & b + c > a & c + a > b){
@@ -46,7 +45,7 @@ function defineTipoTriangulo3(){
 
 // fim
 
-//método interação com usuário
+//método com interação com o usuário(a)
 
 // p = primeiro núm.
 // s = segundo núm.
